@@ -4,4 +4,4 @@
 npm install
 
 ## run
-npm run dev
+npm start
